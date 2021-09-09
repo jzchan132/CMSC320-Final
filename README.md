@@ -1,3 +1,3 @@
-Investigating Popular Twitch Channel Statistics
+# Investigating Popular Twitch Channel Statistics
 
-Formatted as a data science pipeline tutorial, we use various visualizations to draw out insights from the data.
+This Data Science pipeline tutorial, uses correlation heapmaps to build inital intuitions then various visualizations to draw out insights from the data.
